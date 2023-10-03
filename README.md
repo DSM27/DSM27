@@ -1,3 +1,4 @@
+<img src="./bannerV3.png" style="border-radius:25%;"/>
 # 👨🏻‍💻 About Me
 
 - 👨🏽 I´m 21 years old.
